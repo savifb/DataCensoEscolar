@@ -1,2 +1,2 @@
-# DataCensoEscolar
-Foi realizada uma análise estatística comparativa utilizando o Teste T para avaliar diferenças significativas entre os dados escolares de 2023 e 2022 fornecidos pelo INEP. Este estudo tem como objetivo identificar possíveis variações nas características e informações das escolas entre os dois anos.
+# Data Censo Concessões de Aposentadoria em 2018
+Foi realizada uma análise estatística comparativa utilizando o Teste T para avaliar diferenças significativas entre as concessões de aposentadoria do sexo feminino e masculino. Este estudo tem como objetivo aplicar o teste t nessas variáveis e aliar análise estatística com análise de dados, utilizando python e as bibliotecas pandas, matplotlib, seaborn, scipy e numpy. 
